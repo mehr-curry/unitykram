@@ -12,4 +12,12 @@
   <ItemGroup>
     <ProjectReference Include="..\unitykram\unitykram.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Update="unitykram.tests.exe.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="unity.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
