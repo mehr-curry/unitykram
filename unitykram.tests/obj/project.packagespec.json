@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/merc/source/unitykram/unitykram.tests/unitykram.tests.csproj",
+    "projectName": "unitykram.tests",
+    "projectPath": "/home/merc/source/unitykram/unitykram.tests/unitykram.tests.csproj",
+    "outputPath": "/home/merc/source/unitykram/unitykram.tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/merc/source/unitykram/unitykram/unitykram.csproj": {
+            "projectPath": "/home/merc/source/unitykram/unitykram/unitykram.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.8.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Unity": {
+          "target": "Package",
+          "version": "[5.8.11, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

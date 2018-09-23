@@ -1,0 +1,17 @@
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.tests.deps.json
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.tests.runtimeconfig.json
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.tests.runtimeconfig.dev.json
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.tests.dll
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.tests.pdb
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.dll
+/home/merc/source/unitykram/unitykram.tests/bin/Debug/netcoreapp2.1/unitykram.pdb
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.csprojAssemblyReference.cache
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.csproj.CoreCompileInputs.cache
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.AssemblyInfoInputs.cache
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.AssemblyInfo.cs
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.csproj.CopyComplete
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.dll
+/home/merc/source/unitykram/unitykram.tests/obj/Debug/netcoreapp2.1/unitykram.tests.pdb
